@@ -1,0 +1,89 @@
+name: DenalCore
+version: 2.1.6
+author: TechyBW
+main: me.techy.iced.utils.Main
+description: DenalWorld Main Core
+website: www.denalworld.it
+commands:
+  dc:
+    description: DenalCore Command
+    usage: /<command>
+    aliases: [core]
+  fly:
+    description: Fly Command
+    usage: /<command>
+  gamemode:
+    description: Gamemode Command
+    usage: /<command>
+    aliases: [gm]
+  weather:
+    description: Weather Command
+    usage: /<command>    
+  gms:
+    description: Gamemode Survival Command
+    usage: /<command>  
+  gma:
+    description: Gamemode Adventure Command
+    usage: /<command>  
+  gmc:
+    description: Gamemode Creative Command
+    usage: /<command>  
+  gmsp:
+    description: Gamemode Spectator Command
+    usage: /<command>      
+  time:
+    description: Time Command
+    usage: /<command> 
+  day:
+    description: Time Day Command
+    usage: /<command>  
+  night:
+    description: Time Night Command
+    usage: /<command>     
+  nightvision:
+    description: Night Vision Command
+    usage: /<command>    
+    aliases: [nv]           
+  save-all:
+    description: Saveall Command
+    usage: /<command> 
+    aliases: [saveall]          
+  craft:
+    description: Craft Command
+    usage: /<command>
+    aliases: [craftingtable]    
+  poweroff:
+    description: PowerOff Command
+    usage: /<command>
+    aliases: [poff, shutdown]   
+  enderchest:
+    description: EnderChest Command
+    usage: /<command>
+    aliases: [echest, ec] 
+  clearchat:
+    description: Clear Chat Command
+    usage: /<command>
+    aliases: [cc] 
+  god:
+    description: God Command
+    usage: /<command>
+  smite:
+    description: Smite Command
+    usage: /<command>
+    aliases: [zeus, fulmina] 
+  tpall:
+    usage: /<command>
+    description: TPAll Command
+  flyspeed:
+    usage: /<command>
+    description: FlySpeed Command
+  invsee:
+    description: Invsee Command
+    usage: /<command>
+  endersee:
+    description: Endersee Command
+    usage: /<command>
+    aliases: [esee, ecsee, endsee]
+  tphere:
+    description: Tphere Command
+    usage: /<command>
