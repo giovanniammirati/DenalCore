@@ -5,6 +5,7 @@ Scritto in Java usando le API di SpigotMC e integrato in BungeeCord. Alcune funz
 # Requisiti
 - Un server Linux con JRE Java 8
 - Un server di gioco con core Spigot o Paper 1.8.x
+- Per compilarlo è stato usato Eclipse, potete importare tutto il progetto direttamente lì
 
 # Supporto
 Questo è un vecchio plugin aggiornato dal 2019 al 2021. Non c'è nessun tipo di supporto. Qualsiasi Issue o Pull request verrà ignorata e chiusa.
